@@ -1,4 +1,6 @@
-**Nom :** LEVESQUE
+**Nom :** LEVESQUE, LEBRETON, MENARD
+
+**Equipe :** 12
 
 **Groupe :** D1
 
