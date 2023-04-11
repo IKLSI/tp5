@@ -6,16 +6,22 @@
 
 **IUT Le Havre - TP GIT**
 
-### TP 5
+## TP 5
 
 Créer un site web sur GitHub Pages
 
-### Contenu
+## Contenu
 
-* Création d'un thème Jekyll pour l'index.md
-* Création d'une nouvelle branche gh-pages
-* Manipulation des flux
+* Changer la visibilité du dépôt pour le rendre public
+* Découverte des thèmes grâce à Jekyll disponible sur : https://pages.github.com/themes/
+* Divers choix de thèmes sont disponibles avec chacun ses particularités pour un fichier `index.md`
+* Il est possible désormais d'appliquer un thème sur un site web grâce au fichier `_config.yml`
+* Utilisation de divers branches ( la branche principale et la branche de publication )
+  * `main` : branche principale
+  * `gh-pages` : branche de publication
 
-### Objectifs
+![image](https://abderzah.github.io/Introduction-GIT/tp5/images/branches.png)
+
+## Objectifs
 
 * Créer un site web sur GitHub Pages pour la SAE 2.03 
