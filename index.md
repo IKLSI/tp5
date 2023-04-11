@@ -26,16 +26,13 @@
             text-align: center;
             font-weight: bolder;
         }
-        table{
-            margin-left: 42%;
-        }
         </style>
     </head>
     <body>
         <h1>Test TP5 équipe 12 HTML</h1>
         <p>LEVESQUE Kyliann, MENARD Esteban, LE BRETON Kyllian</p>
         <h2>Exemple de code possible</h2>
-        <img src="https://static.vecteezy.com/system/resources/previews/017/119/660/original/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg">
+        <img src="https://static.vecteezy.com/system/resources/previews/017/119/660/original/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector.jpg"><br><br>
         <table>
             <caption>Tableau de présentation</caption>
             <tr>
@@ -68,7 +65,7 @@
                 <td class="ID">20</td>
             </tr>
         </table>
-        <iframe src="https://youtu.be/iPKnqTb95i4" width="100%" frameborder="0" allowfullscreen></iframe> 
+        <iframe src="https://youtu.be/iPKnqTb95i4" width="100%" frameborder="0" allowfullscreen></iframe>
     </body>
 </html>
 
