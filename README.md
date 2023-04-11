@@ -2,19 +2,20 @@
 
 **Equipe :** 12
 
-**Groupe :** D1
-
 **Année :** 2023
 
-**IUT Le Havre - Cours GIT**
+**IUT Le Havre - TP GIT**
 
-### Compte-rendu TP1 Introduction GIT
+### TP 5
 
-Dans ce TP on apprend à travailler avec git.
+Créer un site web sur GitHub Pages
 
-Nous venons de découvrir différentes commandes afin d'utiliser git à savoir :
+### Contenu
 
-    - git status : permettant de voir les fichiers pouvant être ajouté au commit
-    - git add : permettant d'ajouter les fichiers au commit
-    - git commit : permettant de créer un commit
-    - git log : permettant de voir l'historique des commits
+* Création d'un thème Jekyll pour l'index.md
+* Création d'une nouvelle branche gh-pages
+* Manipulation des flux
+
+### Objectifs
+
+* Créer un site web sur GitHub Pages pour la SAE 2.03 
